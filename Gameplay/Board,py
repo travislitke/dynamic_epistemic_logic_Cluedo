@@ -1,0 +1,18 @@
+from Player import Player
+
+ROOMS = ["Courtyard","Game Room","Study","Dining Room","Garage","Living Room","Kitchen","Bedroom","Bathroom"]
+
+class Board():
+    def __init__(self) -> None:
+        self.rooms = [Room(name) for name in ROOMS]
+    
+class Room():
+    def __init__(self, name:str) -> None:
+        self.name = ""
+        self.players = []
+        
+    def enter(self, player: Player):
+        pass
+    
+    def exit(self, player):
+        pass
