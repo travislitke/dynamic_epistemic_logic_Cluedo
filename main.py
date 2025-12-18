@@ -1,11 +1,14 @@
 import argparse
 from datetime import datetime
+import Deck
 import Game
 import KnowledgeGraph
 import logging
 import os
 
-# Logging 
+'''
+Initiate and configure logger:
+'''
 def init_logger():
     folder = "logs"
     filename = f"clue_game{datetime.now().strftime('%Y%m%m_%H%M%S')}"
@@ -24,7 +27,9 @@ def init_logger():
     )
     logging.info(f"Log file created: {filename}")
     
-# main loop
+'''
+Main~
+'''
 def main():
     
     parser = argparse.ArgumentParser(description="Run Clue with DEL")
@@ -52,14 +57,16 @@ def main():
     
     for run in range(num_runs):
     
-        logging.info(f"Run {run+1}: Simulating CLUE with {num_players} players.")
+        logging.info(f"Run {run+1}: Simulating CLUE with {num_players} players.\n")
     
-        new_game = Game.Game(num_players=num_players)
-        new_game.setup()
-        new_game.play()
-                
-        logging.info("End of simulation.")
+        game = Game.Game(num_players=num_players)
+
+        game.play()
         
+        
+        logging.info(f"{game.game_stats}") 
+        logging.info(f"End of simulation {run+1}.\n")
             
 if __name__ == "__main__":
+    
     main()

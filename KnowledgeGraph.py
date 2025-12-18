@@ -1,36 +1,27 @@
+import logging
 import Agent
-import Deck
+from Deck import Card
 
 CHARACTERS = ["Plum","White","Scarlet","Green","Mustard","Peacock"]
 WEAPONS = ["Rope","Dagger","Wrench","Pistol","Candlestick","Lead Pipe"]
 ROOMS = ["Courtyard","Game Room","Study","Dining Room","Garage","Living Room","Kitchen","Bedroom","Bathroom"]
 
-
-class World():
-
-    def __init__(self, props:tuple[str,...]):
-
-        self.props = props
-    
-    def __str__(self):
-        return self.props
-
-
 class Kripke():
     
-    def __init__(self, solution:tuple,agents):
+    def __init__(self, solution:tuple[str,...],agents:list[Agent.Agent]):
         self.solution = solution
-        self.possible_worlds = {v: f"w{i}" for i,v in enumerate([(i,j,k) for i in CHARACTERS for j in WEAPONS for k in ROOMS])}
-        self.accessibility_relations = {agent.name: [world for world in self.possible_worlds] for agent in agents}
+        self.agents = agents
+        self.possible_worlds = {f"w{i}":v for i,v in enumerate([(i,j,k) for i in CHARACTERS for j in WEAPONS for k in ROOMS])}
         self.actual_world = self.get_actual_world(solution)
+        self.accessibility_relations = {agent.name:[(self.actual_world,possible_world) for possible_world in self.possible_worlds] for agent in self.agents}
+
         
     def get_actual_world(self, solution):
         for k,v in self.possible_worlds.items():
-            if k==solution:
-                print(f"ACTUAL WORLD = {v}")
-                return v
+            if v == solution:
+                return k
             
-    def update(self,agent:Agent.Agent,card:str):
+    def update(self,agent:Agent.Agent,card:Card):
         '''
         If an agent sees a card, they know that the correct world is any world
         where card does not hold, creates an accessibility relation (AR) between 
@@ -40,6 +31,9 @@ class Kripke():
         :param player: The agent whose AR is being updated. 
         :param card: The card (proposition) that is adding information to player's AR.
         '''
-        for world in self.accessibility_relations[agent.name]:
-            if card in world:
-                self.accessibility_relations[agent.name].remove(world)
+        for relation in self.accessibility_relations[agent.name]:
+
+            if card.name in self.possible_worlds[relation[1]]:
+                self.accessibility_relations[agent.name].remove(relation)
+        
+        # logging.info(f"Agent {agent.name} has updated list of accessible worlds.")

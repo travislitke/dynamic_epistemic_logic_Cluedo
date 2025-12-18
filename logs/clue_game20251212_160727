@@ -1,0 +1,2111 @@
+2025-12-18 16:07:27 [INFO] Log file created: clue_game20251212_160727
+2025-12-18 16:07:27 [INFO] Run 1: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:27 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Mustard with the Dagger in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Dagger in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Candlestick in the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Rope in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Plum with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Pistol in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Plum with the Lead Pipe in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests White with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Dagger in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Pistol in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Scarlet with the Rope in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Lead Pipe in the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a1 Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Rope in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Dagger in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Plum with the Pistol in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a5 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Mustard with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Rope in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Peacock with the Lead Pipe in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Rope in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Rope in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Green with the Lead Pipe in the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a2 Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Plum with the Lead Pipe in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Plum with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Peacock with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a6 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Rope in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Lead Pipe in the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a3 Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Dagger in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests White with the Pistol in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Lead Pipe in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Plum with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a4 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a5 Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Dagger in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a6 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Plum with the Dagger in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Rope in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Scarlet with the Wrench in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Peacock with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Dagger in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Plum with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Lead Pipe in the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a4 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests White with the Lead Pipe in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] All other players remain silent. Agent a6 has deduced the solution.
+2025-12-18 16:07:27 [INFO] Agent a6 has proposed ('Peacock', 'Lead Pipe', 'Bathroom').
+2025-12-18 16:07:27 [INFO] Agent a6 has solved the mystery.
+2025-12-18 16:07:27 [INFO] {'Solution': ('Peacock', 'Lead Pipe', 'Bathroom'), 'Num Players': 6, 'Winner': 'a6', 'Eliminations': 0, 'Num Rounds': 10}
+2025-12-18 16:07:27 [INFO] End of simulation 1.
+
+2025-12-18 16:07:27 [INFO] Run 2: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:27 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Dagger in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Pistol in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Lead Pipe in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Plum with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests White with the Rope in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Dagger in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Pistol in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Rope in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Scarlet with the Pistol in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Wrench in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Rope in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] All other players remain silent. Agent a3 has deduced the solution.
+2025-12-18 16:07:27 [INFO] Agent a3 has proposed ('Green', 'Rope', 'Bathroom').
+2025-12-18 16:07:27 [INFO] Agent a3 has solved the mystery.
+2025-12-18 16:07:27 [INFO] {'Solution': ('Green', 'Rope', 'Bathroom'), 'Num Players': 6, 'Winner': 'a3', 'Eliminations': 0, 'Num Rounds': 4}
+2025-12-18 16:07:27 [INFO] End of simulation 2.
+
+2025-12-18 16:07:27 [INFO] Run 3: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:27 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Candlestick in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Rope in the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Rope in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Pistol in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Dagger in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Green with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Dagger in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Scarlet with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Plum with the Dagger in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Candlestick in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Plum with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Wrench in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a5 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests White with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a6 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Plum with the Candlestick in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Peacock with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Dagger in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Candlestick in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Wrench in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Wrench in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Green with the Rope in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Scarlet with the Candlestick in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Wrench in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Rope in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Plum with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a1 Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Plum with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Scarlet with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] All other players remain silent. Agent a4 has deduced the solution.
+2025-12-18 16:07:27 [INFO] Agent a4 has proposed ('Scarlet', 'Wrench', 'Courtyard').
+2025-12-18 16:07:27 [INFO] Agent a4 has solved the mystery.
+2025-12-18 16:07:27 [INFO] {'Solution': ('Scarlet', 'Wrench', 'Courtyard'), 'Num Players': 6, 'Winner': 'a4', 'Eliminations': 0, 'Num Rounds': 7}
+2025-12-18 16:07:27 [INFO] End of simulation 3.
+
+2025-12-18 16:07:27 [INFO] Run 4: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:27 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Wrench in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Rope in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Plum with the Lead Pipe in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Rope in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Dagger in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a6 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Mustard with the Candlestick in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Plum with the Pistol in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Scarlet with the Pistol in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Scarlet with the Dagger in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Rope in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Wrench in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Dagger in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Plum with the Rope in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests White with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests White with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Dagger in the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Plum with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Candlestick in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a4 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a6 Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Scarlet with the Wrench in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Lead Pipe in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Plum with the Candlestick in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests White with the Dagger in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Candlestick in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Wrench in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests White with the Candlestick in the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Green with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Scarlet with the Candlestick in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Mustard with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Wrench in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Candlestick in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a3 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Plum with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a5 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Dagger in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Candlestick in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Green with the Candlestick in the Garage.
+2025-12-18 16:07:27 [INFO] All other players remain silent. Agent a2 has deduced the solution.
+2025-12-18 16:07:27 [INFO] Agent a2 has proposed ('Green', 'Candlestick', 'Garage').
+2025-12-18 16:07:27 [INFO] Agent a2 has solved the mystery.
+2025-12-18 16:07:27 [INFO] {'Solution': ('Green', 'Candlestick', 'Garage'), 'Num Players': 6, 'Winner': 'a2', 'Eliminations': 0, 'Num Rounds': 9}
+2025-12-18 16:07:27 [INFO] End of simulation 4.
+
+2025-12-18 16:07:27 [INFO] Run 5: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:27 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests White with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a3 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Pistol in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Mustard with the Dagger in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Pistol in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Plum with the Wrench in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Scarlet with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests White with the Wrench in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Lead Pipe in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Rope in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a4 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Scarlet with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a5 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Mustard with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Pistol in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Candlestick in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Wrench in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Candlestick in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a2 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Plum with the Pistol in the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Dagger in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Rope in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Mustard with the Wrench in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Rope in the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Scarlet with the Pistol in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Candlestick in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Rope in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Candlestick in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Scarlet with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Pistol in the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Scarlet with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Plum with the Pistol in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests White with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a6 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Wrench in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a1 Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Green.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Peacock with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a2 Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Pistol in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a4 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Pistol in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Candlestick.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] All other players remain silent. Agent a1 has deduced the solution.
+2025-12-18 16:07:27 [INFO] Agent a1 has proposed ('Peacock', 'Pistol', 'Bathroom').
+2025-12-18 16:07:27 [INFO] Agent a1 has solved the mystery.
+2025-12-18 16:07:27 [INFO] {'Solution': ('Peacock', 'Pistol', 'Bathroom'), 'Num Players': 6, 'Winner': 'a1', 'Eliminations': 0, 'Num Rounds': 9}
+2025-12-18 16:07:27 [INFO] End of simulation 5.
+
+2025-12-18 16:07:27 [INFO] Run 6: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:27 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Rope.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Plum with the Lead Pipe in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Rope in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a2 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests White with the Candlestick in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Dagger in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Pistol in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Rope in the Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Courtyard.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests White with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a2 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a3 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Green with the Candlestick in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a4 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a5 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Dagger in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Wrench in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Rope in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Peacock with the Dagger in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Dagger in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Rope in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Plum with the Wrench in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Plum with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a1 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Scarlet with the Wrench in the Study.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Wrench in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Mustard with the Candlestick in the Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Bedroom.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Plum with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a5 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Scarlet with the Candlestick in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a6 Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: Scarlet.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Mustard with the Candlestick in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Plum with the Rope in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a2 Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Character: Plum.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Rope in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a3 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Peacock with the Rope in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a4 Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Mustard with the Pistol in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Green with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a6 Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Green with the Candlestick in the Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a1 Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Room: Kitchen.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Wrench in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Green with the Pistol in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a3 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests White with the Pistol in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests White with the Candlestick in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a5 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests White with the Wrench in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a1 shows Agent a6 Character: White.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:27 [INFO] Agent a1 suggests Peacock with the Candlestick in the Study.
+2025-12-18 16:07:27 [INFO] Agent a5 shows Agent a1 Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a1 has seen card Character: Peacock.
+2025-12-18 16:07:27 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 suggests Mustard with the Candlestick in the Living Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a2 Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a2 has seen card Room: Living Room.
+2025-12-18 16:07:27 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a3 suggests Mustard with the Rope in the Bathroom.
+2025-12-18 16:07:27 [INFO] Agent a6 shows Agent a3 Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a3 has seen card Character: Mustard.
+2025-12-18 16:07:27 [INFO] Agent a4 has entered the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 suggests Plum with the Candlestick in the Game Room.
+2025-12-18 16:07:27 [INFO] Agent a2 shows Agent a4 Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a4 has seen card Room: Game Room.
+2025-12-18 16:07:27 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 suggests Green with the Rope in the Garage.
+2025-12-18 16:07:27 [INFO] Agent a3 shows Agent a5 Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a5 has seen card Room: Garage.
+2025-12-18 16:07:27 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a6 suggests Peacock with the Wrench in the Dining Room.
+2025-12-18 16:07:27 [INFO] Agent a4 shows Agent a6 Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a6 has seen card Weapon: Wrench.
+2025-12-18 16:07:27 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a1 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Green with the Dagger in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a3 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Candlestick in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Mustard with the Rope in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a5 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Candlestick in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Scarlet with the Lead Pipe in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a2 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Rope in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Plum with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a4 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Rope in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Green with the Candlestick in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Scarlet with the Rope in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Green with the Rope in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Rope in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Green with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a4 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Scarlet with the Rope in the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a5 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a6 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Mustard with the Candlestick in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Green with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Rope in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a3 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Rope in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a5 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Candlestick in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a6 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Candlestick in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Rope in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a2 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Candlestick in the Bathroom.
+2025-12-18 16:07:28 [INFO] All other players remain silent. Agent a3 has deduced the solution.
+2025-12-18 16:07:28 [INFO] Agent a3 has proposed ('Green', 'Candlestick', 'Bathroom').
+2025-12-18 16:07:28 [INFO] Agent a3 has solved the mystery.
+2025-12-18 16:07:28 [INFO] {'Solution': ('Green', 'Candlestick', 'Bathroom'), 'Num Players': 6, 'Winner': 'a3', 'Eliminations': 0, 'Num Rounds': 12}
+2025-12-18 16:07:28 [INFO] End of simulation 6.
+
+2025-12-18 16:07:28 [INFO] Run 7: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:28 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Lead Pipe in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Wrench in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Pistol in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Scarlet with the Dagger in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Scarlet with the Wrench in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Pistol in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests White with the Rope in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests White with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Peacock with the Wrench in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a5 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Wrench in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Scarlet with the Wrench in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a2 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Wrench in the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a3 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Green with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests White with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests White with the Dagger in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests White with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Pistol in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Rope in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a3 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Scarlet with the Wrench in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Rope in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Mustard with the Dagger in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Pistol in the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Rope in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a2 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Candlestick in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Candlestick in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a4 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Peacock with the Wrench in the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a5 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Lead Pipe in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Mustard with the Candlestick in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Rope in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a3 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Scarlet with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Pistol in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Green with the Wrench in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Candlestick in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a1 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Rope in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a2 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Wrench in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a3 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Scarlet with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Peacock with the Candlestick in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a5 Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Dagger in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Dagger in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a2 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a3 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Pistol in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Peacock with the Lead Pipe in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Dagger in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Rope in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a1 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] All other players remain silent. Agent a2 has deduced the solution.
+2025-12-18 16:07:28 [INFO] Agent a2 has proposed ('Peacock', 'Wrench', 'Garage').
+2025-12-18 16:07:28 [INFO] Agent a2 has solved the mystery.
+2025-12-18 16:07:28 [INFO] {'Solution': ('Peacock', 'Wrench', 'Garage'), 'Num Players': 6, 'Winner': 'a2', 'Eliminations': 0, 'Num Rounds': 9}
+2025-12-18 16:07:28 [INFO] End of simulation 7.
+
+2025-12-18 16:07:28 [INFO] Run 8: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:28 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Scarlet with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Green with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Wrench in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Rope in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a4 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Pistol in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Scarlet with the Candlestick in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Rope in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Pistol in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Mustard with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a3 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Wrench in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Peacock with the Candlestick in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Green with the Candlestick in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Wrench in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a3 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Plum with the Pistol in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Mustard with the Wrench in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Rope in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Dagger in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a2 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Dagger in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Green with the Wrench in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Peacock with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Pistol in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests White with the Candlestick in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a2 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Dagger in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Scarlet with the Wrench in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Scarlet with the Wrench in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Mustard with the Dagger in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a6 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Dagger in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Candlestick in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests White with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a3 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Scarlet with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a4 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests White with the Lead Pipe in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a5 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Scarlet with the Rope in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Mustard with the Dagger in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a2 Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests White with the Wrench in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests White with the Dagger in the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Scarlet with the Candlestick in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a5 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Rope in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Dagger in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Scarlet with the Candlestick in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a2 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Mustard with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a3 Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests White with the Rope in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests White with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a5 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Candlestick in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a6 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests White with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a1 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Candlestick in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Candlestick in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a5 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Scarlet with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Mustard with the Dagger in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a1 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests White with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a2 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Pistol in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests White with the Candlestick in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a4 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a5 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Candlestick in the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a1 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Candlestick in the Dining Room.
+2025-12-18 16:07:28 [INFO] All other players remain silent. Agent a2 has deduced the solution.
+2025-12-18 16:07:28 [INFO] Agent a2 has proposed ('Plum', 'Candlestick', 'Dining Room').
+2025-12-18 16:07:28 [INFO] Agent a2 has solved the mystery.
+2025-12-18 16:07:28 [INFO] {'Solution': ('Plum', 'Candlestick', 'Dining Room'), 'Num Players': 6, 'Winner': 'a2', 'Eliminations': 0, 'Num Rounds': 11}
+2025-12-18 16:07:28 [INFO] End of simulation 8.
+
+2025-12-18 16:07:28 [INFO] Run 9: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:28 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Green.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Scarlet with the Rope in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests White with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests White with the Dagger in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Rope in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Mustard with the Wrench in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a5 Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Wrench.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests White with the Lead Pipe in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Wrench in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a1 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Pistol in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Plum with the Wrench in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Dagger in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Mustard with the Pistol in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Peacock with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Candlestick in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Mustard with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] All other players remain silent. Agent a3 has deduced the solution.
+2025-12-18 16:07:28 [INFO] Agent a3 has proposed ('Mustard', 'Candlestick', 'Courtyard').
+2025-12-18 16:07:28 [INFO] Agent a3 has solved the mystery.
+2025-12-18 16:07:28 [INFO] {'Solution': ('Mustard', 'Candlestick', 'Courtyard'), 'Num Players': 6, 'Winner': 'a3', 'Eliminations': 0, 'Num Rounds': 3}
+2025-12-18 16:07:28 [INFO] End of simulation 9.
+
+2025-12-18 16:07:28 [INFO] Run 10: Simulating CLUE with 6 players.
+
+2025-12-18 16:07:28 [INFO] Dealing to each player. Each player should have 3 cards, with 0 leftover cards.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Mustard.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Game Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests White with the Wrench in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Lead Pipe in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Dagger in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a4 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Pistol in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Green with the Dagger in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Pistol in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Plum with the Wrench in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Pistol in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests White with the Pistol in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Rope in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Green with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Dagger in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Peacock with the Candlestick in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Pistol in the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Pistol in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a4 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Scarlet with the Dagger in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests White with the Pistol in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Lead Pipe in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Scarlet with the Rope in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Plum with the Lead Pipe in the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a3 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Mustard with the Lead Pipe in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a4 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Candlestick in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a5 Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Peacock with the Rope in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Mustard with the Wrench in the Study.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a1 Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Study.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Wrench in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a2 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Mustard with the Lead Pipe in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a6 shows Agent a3 Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Lead Pipe.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Dagger in the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a4 Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Dagger.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a5 Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Garage.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Pistol in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Weapon: Pistol.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Plum with the Wrench in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a1 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Green with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a2 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Green with the Rope in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a3 Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Weapon: Rope.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Peacock with the Wrench in the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a4 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Plum with the Wrench in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a5 Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: Plum.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Scarlet with the Wrench in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a6 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Lead Pipe in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a1 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Scarlet with the Dagger in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a2 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests Peacock with the Wrench in the Game Room.
+2025-12-18 16:07:28 [INFO] Agent a5 shows Agent a3 Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: Peacock.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Study.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Scarlet with the Wrench in the Study.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Character: Scarlet.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests White with the Dagger in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a5 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Green with the Wrench in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a6 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Mustard with the Lead Pipe in the Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a4 shows Agent a1 Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a1 has seen card Room: Dining Room.
+2025-12-18 16:07:28 [INFO] Agent a2 has entered the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 suggests Mustard with the Wrench in the Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a2 Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a2 has seen card Room: Kitchen.
+2025-12-18 16:07:28 [INFO] Agent a3 has entered the Garage.
+2025-12-18 16:07:28 [INFO] Agent a3 suggests White with the Wrench in the Garage.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a3 Character: White.
+2025-12-18 16:07:28 [INFO] Agent a3 has seen card Character: White.
+2025-12-18 16:07:28 [INFO] Agent a4 has entered the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a4 suggests Green with the Candlestick in the Bedroom.
+2025-12-18 16:07:28 [INFO] Agent a1 shows Agent a4 Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a4 has seen card Weapon: Candlestick.
+2025-12-18 16:07:28 [INFO] Agent a5 has entered the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a5 suggests Green with the Lead Pipe in the Living Room.
+2025-12-18 16:07:28 [INFO] Agent a3 shows Agent a5 Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a5 has seen card Room: Living Room.
+2025-12-18 16:07:28 [INFO] Agent a6 has entered the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 suggests Plum with the Wrench in the Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a2 shows Agent a6 Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a6 has seen card Room: Bathroom.
+2025-12-18 16:07:28 [INFO] Agent a1 has entered the Courtyard.
+2025-12-18 16:07:28 [INFO] Agent a1 suggests Green with the Wrench in the Courtyard.
+2025-12-18 16:07:28 [INFO] All other players remain silent. Agent a1 has deduced the solution.
+2025-12-18 16:07:28 [INFO] Agent a1 has proposed ('Green', 'Wrench', 'Courtyard').
+2025-12-18 16:07:28 [INFO] Agent a1 has solved the mystery.
+2025-12-18 16:07:28 [INFO] {'Solution': ('Green', 'Wrench', 'Courtyard'), 'Num Players': 6, 'Winner': 'a1', 'Eliminations': 0, 'Num Rounds': 9}
+2025-12-18 16:07:28 [INFO] End of simulation 10.
+
