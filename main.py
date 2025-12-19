@@ -48,18 +48,33 @@ def main():
         help="Number of simulation runs, default:1."
     )
     
+    parser.add_argument(
+        "--accessibility","-a",
+        type=str,
+        default='n',
+        help="Should accessibility relations be logged at each update(y/n)? default=n."
+    )
     args = parser.parse_args()
     
     num_players = args.players
     num_runs = args.runs
+    log_accessibility = args.accessibility
     
     init_logger()
     
     for run in range(num_runs):
-    
+        
         logging.info(f"Run {run+1}: Simulating CLUE with {num_players} players.\n")
-    
-        game = Game.Game(num_players=num_players)
+        match log_accessibility:
+            case "y":
+                la = True
+                logging.info("Logging accessibility relation updates.")
+            case "n":
+                la = False
+            case _:
+                raise ValueError("Argument -a only takes y or n.")
+            
+        game = Game.Game(num_players=num_players,log_accessibility=la)
 
         game.play()
         

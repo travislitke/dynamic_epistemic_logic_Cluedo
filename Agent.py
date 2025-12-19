@@ -9,6 +9,7 @@ class Agent():
         self.possible_suspects = ["Plum","White","Scarlet","Green","Mustard","Peacock"]
         self.possible_weapons = ["Rope","Dagger","Wrench","Pistol","Candlestick","Lead Pipe"]
         self.possible_rooms = ["Courtyard","Game Room","Study","Dining Room","Garage","Living Room","Kitchen","Bedroom","Bathroom"]
+        self.possible_worlds = 9*6*6
 
 
     def __str__(self):
@@ -27,7 +28,6 @@ class Agent():
     
     def take_card(self,card):
         self.hand.append(card)
-        self.see_card(card)
     
     
     def see_card(self, card:Card):

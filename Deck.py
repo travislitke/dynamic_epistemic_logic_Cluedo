@@ -40,7 +40,8 @@ class Deck():
             self.cards.append(Card("Weapon",weapon))
         for room in ROOMS:
             self.cards.append(Card("Room", room))
-            
+        
+        assert(len(self.cards)==21)
 
     def __eq__(self, other: object) -> bool:
         if isinstance(other, Deck):
@@ -74,6 +75,7 @@ class Deck():
         self.cards.remove(character_cards[0])
         self.cards.remove(weapon_cards[0])
         self.cards.remove(room_cards[0])
+        assert(len(self.cards)==18)
         
         return solution
     
