@@ -80,6 +80,7 @@ def main():
         
         
         logging.info(f"{game.game_stats}") 
+        logging.info(f"Final Kripke Model:\n{game.kripke_model.accessibility_relations}")
         logging.info(f"End of simulation {run+1}.\n")
             
 if __name__ == "__main__":
